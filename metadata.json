@@ -1,0 +1,6 @@
+{
+  "name": "Career Roadmap",
+  "description": "AI & Data Science career roadmap with skill gap analysis, weekly timelines, quizzes, study logging, and learning gain tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
